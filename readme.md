@@ -60,7 +60,7 @@ To prevent initialization failure of control points, you use the argument `--ini
 ## Install
 
 ```bash
-git clone https://github.com/yihua7/SC-GS --recursive
+git clone https://github.com/shs332/SC-GS --recursive
 cd SC-GS
 
 pip install -r requirements.txt
